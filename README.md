@@ -7,6 +7,7 @@ This project is part of the *“100 Days of Python”* course by **Angela Yu (Ud
 It showcases practical skills in **data analysis**, **time-series exploration**, and **data visualization** using Python.
 
 The dataset used in this project comes from **Stack Overflow**.
+
 <img width="268" height="83" alt="image" src="https://github.com/user-attachments/assets/ba10b9f5-c14d-48f0-a929-4f3cdb627945" />
 
 
