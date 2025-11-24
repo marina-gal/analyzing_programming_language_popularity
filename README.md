@@ -6,6 +6,8 @@ Using Python and Jupyter Notebook, the project compares multiple languages and v
 This project is part of the *“100 Days of Python”* course by **Angela Yu (Udemy)**.  
 It showcases practical skills in **data analysis**, **time-series exploration**, and **data visualization** using Python.
 
+The dataset used in this project comes from **Stack Overflow**.
+
 ### What This Project Includes
 
 - Data loading and preparation  
